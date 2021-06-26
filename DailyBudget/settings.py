@@ -109,7 +109,7 @@ AUTH_PASSWORD_VALIDATORS = [
 
 LANGUAGE_CODE = 'en-us'
 
-# TIME_ZONE = 'IST'
+TIME_ZONE = 'Asia/Pune'
 
 USE_I18N = True
 
